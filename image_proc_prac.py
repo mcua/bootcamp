@@ -13,6 +13,9 @@ import skimage.measure
 import skimage.morphology
 import skimage.segmentation
 
+def proc_fluorescence(file):
+
+
 def proc_phase_im(filename,siz_bac = 0,ip_dist=0.063):
     """
     Processes phase image:
